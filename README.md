@@ -1,6 +1,6 @@
 # Getting started with GitHub
 
 
-## [Github Training](https://volumetricformat.github.io/github-training/)
+## [Github Training](https://openchain-project.github.io/github-training/)
 
 
